@@ -1,0 +1,15 @@
+C:\ProjetoC\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\ProjetoC\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\appsettings.json
+C:\ProjetoC\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\ProjetoC\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.deps.json
+C:\ProjetoC\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.runtimeconfig.json
+C:\ProjetoC\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.runtimeconfig.dev.json
+C:\ProjetoC\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.dll
+C:\ProjetoC\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.pdb
+C:\ProjetoC\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.fsproj.AssemblyReference.cache
+C:\ProjetoC\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.AssemblyInfoInputs.cache
+C:\ProjetoC\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.AssemblyInfo.fs
+C:\ProjetoC\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.fsproj.CoreCompileInputs.cache
+C:\ProjetoC\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.dll
+C:\ProjetoC\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.pdb
+C:\ProjetoC\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.genruntimeconfig.cache

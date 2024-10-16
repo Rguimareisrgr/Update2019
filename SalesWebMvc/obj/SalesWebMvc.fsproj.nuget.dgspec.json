@@ -1,0 +1,86 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\ProjetoC\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.fsproj": {}
+  },
+  "projects": {
+    "C:\\ProjetoC\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ProjetoC\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.fsproj",
+        "projectName": "SalesWebMvc",
+        "projectPath": "C:\\ProjetoC\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.fsproj",
+        "packagesPath": "C:\\Users\\rguim\\.nuget\\packages\\",
+        "outputPath": "C:\\ProjetoC\\SalesWebMvc\\SalesWebMvc\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rguim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\8.0.403\\FSharp\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
+          "dependencies": {
+            "FSharp.Core": {
+              "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[8.0.401, )",
+              "generatePathProperty": true
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true,
+              "generatePathProperty": true
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true,
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
